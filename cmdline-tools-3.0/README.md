@@ -57,6 +57,6 @@ cd 3.0/bin
 ./sdkmanager --list --include_obsolete --verbose
 ./sdkmanager --verbose "emulator" "system-images;android-25;default;arm64-v8a" "platforms;android-25" "platform-tools"
 ./sdkmanager --licenses
-./avdmanager -v create avd -n Nougat -k "system-images;android-25;arm64-v8a"
+./avdmanager -v create avd -n Nougat -k "system-images;android-25;default;arm64-v8a"
 ../../../emulator/emulator -avd Nougat
 ```
