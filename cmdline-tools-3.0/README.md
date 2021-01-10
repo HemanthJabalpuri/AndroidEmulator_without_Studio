@@ -60,3 +60,17 @@ cd 3.0/bin
 ./avdmanager -v create avd -n Nougat -k "system-images;android-25;default;arm64-v8a"
 ../../../emulator/emulator -avd Nougat
 ```
+
+**References:-**  
+- https://linuxhint.com/setup-android-emulator-without-installing-android-studio-in-linux/
+- https://gist.github.com/giansalex/92cb633c50ab31f855d895dd95ee920c
+- https://android.tutorials24x7.com/blog/how-to-install-android-sdk-tools-on-ubuntu-20-04
+- https://dev.to/koscheyscrag/how-to-install-android-emulator-without-installing-android-studio-3lce
+- https://medium.com/michael-wallace/how-to-install-android-sdk-and-setup-avd-emulator-without-android-studio-aeb55c014264
+- http://unixlab.blogspot.com/2009/09/how-to-install-android-sdk-16-on-ubuntu.html?m=1
+
+**Issues I got and fixed:-**
+- https://stackoverflow.com/a/49889382/11620356
+- https://stackoverflow.com/a/12251045/11620356
+- https://stackoverflow.com/a/32968445/11620356
+- https://stackoverflow.com/a/32772244/11620356
