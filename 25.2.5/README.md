@@ -7,3 +7,8 @@ Install any `system-image` like armeabi-v7a, arm64-v8a, x86, x86_64 and platform
 Create new AVD from `Tools/Manage AVDs` section and run it.
 
 Enjoy!
+
+**Issues I got and fixed:-**
+- https://stackoverflow.com/a/12251045/11620356
+- https://stackoverflow.com/a/32968445/11620356
+
