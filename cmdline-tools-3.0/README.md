@@ -71,6 +71,3 @@ cd 3.0/bin
 
 **Issues I got and fixed:-**
 - https://stackoverflow.com/a/49889382/11620356
-- https://stackoverflow.com/a/12251045/11620356
-- https://stackoverflow.com/a/32968445/11620356
-- https://stackoverflow.com/a/32772244/11620356
