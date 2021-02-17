@@ -1,4 +1,4 @@
-Make a folder named something for SDK like `AndroidSDK`. Create a folder called cmdline-tools in it. Download and decompress SDK commandline-tools from https://dl.google.com/android/repository/commandlinetools-linux-6858069_latest.zip -o tools.zip in it. We will get another cmdline-tools folder.  
+Make a folder named something for SDK like `AndroidSDK`. Create a folder called cmdline-tools in it. Download and decompress SDK commandline-tools from https://dl.google.com/android/repository/commandlinetools-linux-6858069_latest.zip in it. We will get another cmdline-tools folder.  
 Rename it to respective version here `3.0`.
 
 Then run below
